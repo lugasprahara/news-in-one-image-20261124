@@ -1,0 +1,135 @@
+{
+ "date_line": "TUESDAY 24 NOVEMBER 2026",
+ "hero": {
+  "brief": "Iran's IRGC says four oil tankers struck naval mines and caught fire in the strait, and its navy attacked a container ship. Tehran orders the artery shut.",
+  "headline": "HORMUZ ERUPTS: FOUR TANKERS HIT MINES",
+  "kicker": "LEAD STORY — STRAIT OF HORMUZ",
+  "lat": 26.5,
+  "lon": 56.5,
+  "sources": "Daily Summary Of (stories 03, 30); Just Security Early Edition, 24 Nov 2026"
+ },
+ "panels": [
+  {
+   "brief": "US jury convicts Huawei of trade-secret theft and bank fraud on 10 of 12 counts, acquits it of racketeering. Sentencing: Sept 2027.",
+   "headline": "HUAWEI GUILTY IN US COURT",
+   "lat": 40.7,
+   "lon": -73.9,
+   "n": 1,
+   "place": "NEW YORK",
+   "sources": "Daily Summary Of (story 01)"
+  },
+  {
+   "brief": "Kyiv drones hit freighter Sparta II in the Gulf of Finland and a corvette off Libya. Poland accuses Moscow of an airspace violation.",
+   "headline": "UKRAINE STRIKES RUSSIAN SHIPS",
+   "lat": 59.9,
+   "lon": 28.0,
+   "n": 2,
+   "place": "BALTIC & LIBYA",
+   "sources": "Daily Summary Of (stories 16, 23); The Global Eye, 24 Nov 2026"
+  },
+  {
+   "brief": "Overnight Russian attack hits a Zaporizhzhia apartment block: 2 dead, 40 wounded, four of them children, the governor says.",
+   "headline": "ZAPORIZHZHIA STRIKE KILLS 2",
+   "lat": 47.8,
+   "lon": 35.2,
+   "n": 3,
+   "place": "UKRAINE",
+   "sources": "Just Security Early Edition, 24 Nov 2026 (AP)"
+  },
+  {
+   "brief": "UN's top court rules 9-6 that Myanmar's forces committed genocide against the Rohingya in 2017 - a first for a state.",
+   "headline": "ICJ: MYANMAR COMMITTED GENOCIDE",
+   "lat": 52.1,
+   "lon": 4.3,
+   "n": 4,
+   "place": "THE HAGUE",
+   "sources": "Daily Summary Of (story 20)"
+  },
+  {
+   "brief": "Israeli strike kills Hamas internal security chief Naeem Abu Nahel and six others, straining the ceasefire held since Oct 2025.",
+   "headline": "HAMAS SECURITY CHIEF KILLED",
+   "lat": 31.4,
+   "lon": 34.3,
+   "n": 5,
+   "place": "GAZA",
+   "sources": "Daily Summary Of (story 10); Just Security; Reuters via The Global Eye"
+  },
+  {
+   "brief": "Suspected Houthi drone wounds 11 at Saudi PIF tower in Riyadh. Yemen says Houthis are 60 km from Aden, ready to attack.",
+   "headline": "DRONE HITS SAUDI PIF TOWER",
+   "lat": 24.6,
+   "lon": 46.7,
+   "n": 6,
+   "place": "RIYADH & YEMEN",
+   "sources": "Daily Summary Of (stories 05, 06)"
+  },
+  {
+   "brief": "Gunmen hold 25 in a Cartagena supermarket; a car bomb in Villavicencio injures 23, eve of the FARC deal's 10th year.",
+   "headline": "HOSTAGES HELD, CAR BOMB INJURES 23",
+   "lat": 10.4,
+   "lon": -75.5,
+   "n": 7,
+   "place": "COLOMBIA",
+   "sources": "Daily Summary Of (stories 04, 09)"
+  },
+  {
+   "brief": "A Turkish Air Force AS-532 helicopter crashes just after takeoff from Eskisehir on a training flight, killing all five crew members.",
+   "headline": "AIR FORCE HELICOPTER CRASH KILLS 5",
+   "lat": 39.8,
+   "lon": 30.5,
+   "n": 8,
+   "place": "TURKIYE",
+   "sources": "Daily Summary Of (story 02)"
+  },
+  {
+   "brief": "Nvidia's board reinstates Jensen Huang as CEO. AI shares jump; Wall Street claws back half of last week's losses.",
+   "headline": "JENSEN HUANG BACK AT NVIDIA",
+   "lat": 37.4,
+   "lon": -122.0,
+   "n": 9,
+   "place": "SILICON VALLEY",
+   "sources": "CWEB Daily Headlines, 24 Nov 2026; Daily Summary Of (story 28)"
+  },
+  {
+   "brief": "Senegal regained the Africa Cup of Nations title after a sports court appeal - the day's biggest football verdict.",
+   "headline": "AFCON TITLE RESTORED ON APPEAL",
+   "lat": 14.7,
+   "lon": -17.4,
+   "n": 10,
+   "place": "SENEGAL",
+   "sources": "Daily Summary Of (day summary), 24 Nov 2026"
+  },
+  {
+   "brief": "Suspected cooking-gas blast tears through a packed Hanoi hot pot restaurant: at least 6 dead, more than 10 injured.",
+   "headline": "RESTAURANT BLAST KILLS AT LEAST 6",
+   "lat": 21.0,
+   "lon": 105.9,
+   "n": 11,
+   "place": "HANOI",
+   "sources": "Daily Summary Of (story 15)"
+  },
+  {
+   "brief": "President Prabowo nominates Amran Sulaiman and Sugiono to succeed VP Gibran, who resigned Nov 12. Assembly votes by Dec 11.",
+   "headline": "TWO NAMED TO REPLACE VICE PRESIDENT",
+   "lat": -6.2,
+   "lon": 106.8,
+   "n": 12,
+   "place": "JAKARTA",
+   "sources": "Daily Summary Of (story 21)"
+  }
+ ],
+ "sources_footer": "Sources: Reuters - AP - BBC - UN News - Kyiv Independent - Just Security - The Global Eye - Daily Summary Of (30 stories, 64 sources). Full list in SOURCES.md",
+ "story_count": 26,
+ "ticker": [
+  "NATO vows defence against space threats",
+  "Mexico captures cartel boss 'El Chapo Isidro'",
+  "China sentences official to death for spying",
+  "Pentagon rebukes Canada on defence, F-35 review",
+  "Hasina to return to Bangladesh Dec 16",
+  "Malaysia to send thousands of migrants to Myanmar",
+  "Russian jets enter South Korea air-defence zone",
+  "Iraq orders federal control of Kurdish oilfields",
+  "Gaza meningitis epidemic alert",
+  "Fighting traps Ebola teams in DR Congo"
+ ]
+}
